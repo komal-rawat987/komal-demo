@@ -1,4 +1,4 @@
 # komal-demo
 This is my first Git Repository.
 <br>
-Author - Komal Rawat 
+Author - Komal (rawat) 
